@@ -39,3 +39,35 @@
 - **At-will employment** — 美国大多数州雇主可以随时解雇员工（无需理由）
 - **Let go** — "被解雇"的委婉说法，比 fired 温和
 - **美国人对失业的态度** — 视为暂时挫折而非耻辱，鼓励尽快重新开始
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 朋友告诉你他被裁员了，你安慰他：
+   → "It's not your fault. Things will ______. You'll find ______."
+
+2. 你自己遇到职场挫折，向朋友倾诉：
+   → "I feel terrible about it. I need some time to ______."
+
+3. 一段时间后你重新振作：
+   → "I've updated my résumé. I'm starting to ______."
+
+### 练习 B：安慰人 (30 秒)
+
+> 想象你的朋友刚被公司裁员，很沮丧。
+> 用 30 秒安慰他/她。至少使用 3 种不同的安慰表达。
+
+可用：It's not your fault / Things will work out / Don't worry / You'll find something better
+
+### 练习 C：坏消息的表达梯度
+
+告诉别人你丢了工作：
+| 委婉 | I've been let go. |
+| 中性 | I lost my job. |
+| 直接 | I was fired. |
+
+你试试：告诉别人"项目失败了"
+| 委婉 | ______ |
+| 中性 | ______ |
+| 直接 | ______ |

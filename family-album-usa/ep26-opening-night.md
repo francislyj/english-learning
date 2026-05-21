@@ -39,3 +39,31 @@
 - **Opening night** — 首演之夜在美国演艺界是大事，会邀请家人朋友出席
 - **美国个人成就叙事** — 从梦想到实现，家人支持贯穿始终——这也是全剧的主题
 - **全剧回顾** — 26 集走完，Stewart 一家展现了典型美国中产家庭的生活全貌
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 同事/朋友完成了一个很难的项目，你肯定他：
+   → "I'm so proud of you. You've come a long way."
+
+2. 你完成了一个重大目标，感谢帮助过你的人：
+   → "I couldn't have done it without you. Thank you for ______."
+
+3. 展望下一步：
+   → "This is just the beginning. Next, I'm going to ______."
+
+### 练习 B：成就回顾 (60 秒)
+
+> 回顾你过去一年的一个重要成就（发布项目/学会新技能/完成挑战）。
+> 用英语讲这个故事：起点 → 困难 → 成果 → 感谢 → 下一步。
+> 用 You've come a long way / I couldn't have done it without / This is just the beginning。
+
+### 练习 C：最终练习 — 26 集总结
+
+用 3-5 句英语总结你从这 26 集中学到了什么：
+- 最有用的一个句型是什么？
+- 哪一集的场景最贴近你的生活？
+- 接下来你打算怎么继续提高英语？
+
+→ ______ (不写，直接说 60 秒)

@@ -39,3 +39,34 @@
 - **Nashville** — 田纳西州纳什维尔是乡村音乐之都
 - **美国音乐多样性** — country, jazz, blues, rock, hip-hop 都是美国原创音乐类型
 - **Music & identity** — 美国人常通过音乐喜好表达身份认同
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 新同事问你喜欢什么（不限于音乐）：
+   → "I'm really into ______. Have you ever heard of ______?"
+
+2. 推荐你喜欢的东西给别人：
+   → "You should check out ______. It reminds me of ______."
+
+3. 描述某个爱好对你的意义：
+   → "______ speaks to me. It makes me feel ______."
+
+### 练习 B：聊爱好 (60 秒)
+
+> 用英语聊一个你真正的爱好或兴趣（播客/游戏/运动/音乐/读书）。
+> 包含：什么时候开始的、为什么喜欢、推荐一个给对方。
+> 用 I'm really into / It reminds me of / You should check out。
+
+### 练习 C：聊天推进
+
+Small talk 中如何从表面聊到深入：
+| 表面 | What kind of music do you like? |
+| 进一步 | What got you into that? |
+| 深入 | What does it mean to you? |
+
+你试试：用这个三层结构聊"编程"话题
+| 表面 | ______ |
+| 进一步 | ______ |
+| 深入 | ______ |

@@ -38,3 +38,28 @@
 - **Lost and found** — 美国公共场所通常有失物招领处
 - **Reward** — 失主给找到物品的人小额报酬是常见做法，不算"收贿"
 - **价值观教育** — 美国家庭重视通过日常事件教育孩子品格
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 你在公司发现一个安全漏洞，有人说"别管了"，你表达立场：
+   → "Reporting it is the right thing to do."
+
+2. 假设性讨论 — 问朋友一个道德问题：
+   → "What would you do if you ______?"
+
+3. 同事做了正确但困难的决定，你肯定他：
+   → "I'm proud of you. That wasn't easy."
+
+### 练习 B：60 秒独白
+
+> 描述一次你做了"正确但不容易"的决定。
+> 用 the right thing, should have, What would you do if... 构建故事。
+
+### 练习 C：虚拟条件句练习
+
+完成以下假设（大声说出，不要写）：
+- If I found a bug in production at 2am, I would ______.
+- If a recruiter offered me double salary, I would ______.
+- If I won the lottery, I would ______.

@@ -40,3 +40,33 @@
 - **美式婚礼流程** — ceremony (仪式) → reception (宴会) → first dance → toast → bouquet toss
 - **Best man speech** — 伴郎在婚宴上致辞是传统，通常幽默+感人
 - **Something old, something new, something borrowed, something blue** — 新娘的传统好运物
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 在任何正式场合表达庄重承诺：
+   → "I do." / "You have my word." / "I promise to ______."
+
+2. 为别人的重要时刻祝福：
+   → "Best wishes! I'm so happy for you both. May you ______."
+
+3. 祝酒/致辞开场：
+   → "I'd like to raise a toast to ______."
+
+### 练习 B：祝酒词 (30 秒)
+
+> 想象你在好朋友的婚礼上被要求说几句话。
+> 用英语说一段简短的祝酒词。包含：祝福 + 你对他们的评价 + 举杯。
+
+提示：I'd like to raise a toast to... / I wish you... / Here's to...
+
+### 练习 C：正式祝福
+
+不同场合的祝福表达：
+| 婚礼 | Best wishes! May you have a lifetime of happiness. |
+| 毕业 | Congratulations! The future is yours. |
+| 新工作 | All the best in your new role! |
+
+你试试：朋友创业了，你祝福
+→ ______

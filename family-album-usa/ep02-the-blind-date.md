@@ -38,3 +38,32 @@
 - **Blind date** — 美国文化中很常见，朋友/家人介绍，双方事先不认识
 - **电话邀约** — 90 年代美国约会都是打座机电话，需要描述外貌以便认出对方
 - **Pick someone up** — 男方开车去女方家接人是传统礼仪
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 同事问你新来的实习生长什么样：
+   → "What does he/she look like?" → 你回答："He's/She's got ______."
+
+2. 你想约朋友周末一起吃饭：
+   → "How about ______?"（提议时间）
+   → "I'll pick you up at ______."（确认安排）
+
+3. 有人邀请你参加活动，你很想去：
+   → "I'd love to! I'm looking forward to ______."
+
+### 练习 B：30 秒独白
+
+> 你要在线上会议前向远程同事描述自己的外貌，方便对方在线下活动认出你。
+> 用 3-4 句话描述自己（身高、发型、打算穿什么）。
+
+提示：I'm... height, with... hair. I'll be wearing...
+
+### 练习 C：描述一个人
+
+选一个你认识的人，用英语描述 TA 的外貌（不看任何提示，直接说）：
+- 身高 → tall / medium height / short
+- 体型 → slim / average build / heavy
+- 头发 → long/short + 颜色 + straight/curly
+- 特征 → glasses / beard / freckles

@@ -38,3 +38,28 @@ Marilyn 和 Richard 想买自己的房子搬出去住。涉及看房、讨论预
 - **美国买房流程** — 找经纪人 → 看房 → 出 offer → 贷款审批 → 过户
 - **独立生活** — 美国年轻夫妻婚后搬出父母家是常态
 - **Mortgage** — 30 年房贷在美国非常普遍，首付通常 10-20%
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 你在和朋友讨论租房还是买房：
+   → "How much can we afford? It's within/beyond our budget."
+
+2. 房东/经纪人问你需求：
+   → "I'm looking for a ______ with ______."
+
+3. 看完一个选项，你需要时间考虑：
+   → "We'll think about it. Can we get back to you by ______?"
+
+### 练习 B：需求描述 (30 秒)
+
+> 用英语描述你理想的住所。包含：位置、大小、预算、必须有的特征。
+> 用 I'm looking for... / It should have... / I can afford...
+
+### 练习 C：谈判/讨价
+
+和房东谈条件，用不同强度表达：
+| 委婉 | Is there any room for negotiation on the price? |
+| 直接 | Can you lower the rent? |
+| 坚定 | That's beyond our budget. We can offer ______. |

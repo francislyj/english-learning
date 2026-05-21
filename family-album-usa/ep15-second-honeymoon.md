@@ -38,3 +38,31 @@ Philip 和 Ellen 计划结婚周年旅行，重温蜜月感觉。涉及旅行规
 - **Second honeymoon** — 美国夫妻在结婚周年时重新度一次"蜜月旅行"的传统
 - **Anniversary trips** — 结婚 10 年、25 年等重要周年常安排特别旅行
 - **美国人的度假观** — 认为定期旅行是维护婚姻关系的重要方式
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 你提议跟朋友/家人去旅行：
+   → "Let's go on a trip! How about ______? We deserve a ______."
+
+2. 讨论目的地偏好：
+   → "I'd love to go to ______. Where would you like to ______?"
+
+3. 确定安排：
+   → "Let's make a reservation for ______. The flight is ______ hours."
+
+### 练习 B：旅行规划独白 (60 秒)
+
+> 用英语计划你下一次旅行。包含：目的地、为什么想去、打算待几天、想做什么。
+> 用 I'd love to... / How about... / Let's... 结构。
+
+### 练习 C：表达"值得/应得"
+
+| 场景 | 表达 |
+|------|------|
+| 辛苦工作后想休假 | We deserve a vacation. |
+| 完成大项目想犒劳自己 | I deserve a treat. |
+| 别人帮了大忙 | You deserve a big thank you. |
+
+你试试造 3 句 "deserve" 的句子（说出来）：______, ______, ______

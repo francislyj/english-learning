@@ -38,3 +38,31 @@
 - **Sportsmanship** — 美国非常强调体育精神：赢要谦虚，输要大方
 - **Good sport** — 高度赞美词，形容无论输赢都表现得体的人
 - **家庭游戏之夜** — 美国家庭传统，一起玩桌游或户外运动增进感情
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. Code review 中有分歧，你提醒对方别太较真：
+   → "Let's play fair. It's just ______. No need to get ______."
+
+2. 你在比赛/竞赛中输了，表现风度：
+   → "Good game! You were better this time. I'll get you ______."
+
+3. 轮流做某事（比如值班）：
+   → "It's your turn to ______. I did it last ______."
+
+### 练习 B：输赢表态 (30 秒)
+
+> 想象你和同事打乒乓球/下棋/打游戏输了。
+> 用英语展现 good sportsmanship：承认对方厉害 + 表达下次再来。
+
+### 练习 C：竞争用语
+
+| 赢了说 | Good game! You almost had me. |
+| 输了说 | Good game! I'll get you next time. |
+| 观战说 | That was a close one! Well played, both of you. |
+
+你试试（code review 场景）：
+| 你的方案被采纳 | ______ |
+| 你的方案被否决 | ______ |

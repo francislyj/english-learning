@@ -39,3 +39,32 @@
 - **Surprise party** — 美国非常流行的庆祝方式，尤其是里程碑生日
 - **You shouldn't have** — 美国人收到礼物时的标准客套，并非真的不想要
 - **BYOB** — Bring Your Own Bottle/Beverage，美国派对常见做法
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 同事们给你办了个欢迎派对，你很惊讶：
+   → "I had no idea! I'm so ______. You shouldn't have!"
+
+2. 你在秘密筹划给朋友的生日：
+   → "Don't tell anyone. It's a ______. We've been planning this for ______."
+
+3. 收到意想不到的礼物/帮助：
+   → "I'm speechless. This means ______ to me."
+
+### 练习 B：表达惊讶 + 感动 (30 秒)
+
+> 想象同事在你离职时偷偷给你办了欢送会。
+> 用英语表达你的惊讶和感动。用 I had no idea / You shouldn't have / I'm so touched。
+
+### 练习 C：惊讶程度表达
+
+| 轻度惊讶 | Oh, that's nice! |
+| 中度惊讶 | Wow, I didn't expect that! |
+| 极度惊讶 | I had no idea! I'm speechless! |
+
+你试试：听说朋友突然拿到了 Google offer
+| 轻度 | ______ |
+| 中度 | ______ |
+| 极度 | ______ |

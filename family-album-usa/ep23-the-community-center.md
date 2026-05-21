@@ -38,3 +38,32 @@
 - **Community center** — 美国社区的公共活动场所，提供课程、运动、聚会空间
 - **Town hall meeting** — 居民讨论公共事务的传统形式，人人可发言
 - **Grassroots activism** — 美国人重视"自下而上"解决社区问题
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 团队中发现一个流程问题，你号召改进：
+   → "We need to do something about this. I'd like to propose ______."
+
+2. 讨论方案时你表态：
+   → "I agree with ______. What do you suggest we do about ______?"
+
+3. 需要团队表决：
+   → "Let's put it to a vote. All in favor of ______?"
+
+### 练习 B：提案陈述 (60 秒)
+
+> 你想在团队推动一个改进（比如引入 code review 规范/新工具/新流程）。
+> 用英语做一个 60 秒的提案。结构：问题 → 方案 → 行动号召。
+> 用 We need to / I'd like to propose / We can make it work。
+
+### 练习 C：会议用语
+
+| 提议 | I'd like to propose that we... |
+| 同意 | I agree. Let's go with that. |
+| 反对 | I see your point, but I think we should... |
+| 表决 | Let's put it to a vote. |
+
+你试试：团队开会讨论是否迁移数据库，你参与发言
+→ ______ (选一个立场，说 2-3 句)

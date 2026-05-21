@@ -38,3 +38,29 @@
 - **Make a difference** — 美国文化核心价值观之一：个人可以改变世界
 - **Volunteering** — 美国人从小参与志愿服务，大学申请也看重这点
 - **Community service** — 社区意识在美国郊区生活中非常重要
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 你想为开源社区做贡献：
+   → "I want to make a difference. How can I ______?"
+
+2. 鼓励别人参与（哪怕只是小贡献）：
+   → "Every little bit helps. Even if you just ______."
+
+3. 做完后的满足感：
+   → "It's worth it. I feel good about ______."
+
+### 练习 B：贡献故事 (60 秒)
+
+> 用英语描述你做过的一件帮助他人/社区的事（开源贡献、帮新人、写教程都算）。
+> 用 make a difference / give back / feel good about 结构。
+
+### 练习 C：号召 vs 个人
+
+| 号召别人 | We can do it together. Every little bit helps. |
+| 表达个人 | I want to give back. It makes me feel fulfilled. |
+
+你试试：为什么你想做开源/写博客/帮助新人
+→ ______ (说出来，不要写)

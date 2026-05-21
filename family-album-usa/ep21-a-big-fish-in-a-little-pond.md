@@ -37,3 +37,33 @@
 - **Big fish in a little pond** — 经典英语习语，暗示可能缺乏更大挑战
 - **美国城乡差异** — 大城市 (NYC, LA) vs. 郊区/小镇是美国人常面临的选择
 - **American Dream** — 去大城市追梦是美国文化经典叙事
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 你在考虑是留在小公司还是去大厂：
+   → "I'm torn between ______. I'd rather ______."
+
+2. 朋友问你的想法：
+   → "What matters most to me is ______."
+
+3. 讨论 trade-off：
+   → "There's more opportunity in ______, but the pace of life is ______."
+
+### 练习 B：人生选择独白 (60 秒)
+
+> 用英语谈谈你选择当前工作/城市/生活方式的原因。
+> 用 I'd rather / What matters most / trade-off 结构。
+> 结尾用 "Where do I see myself in five years?" 自问自答。
+
+### 练习 C：偏好表达
+
+| 弱偏好 | I kind of prefer staying here. |
+| 明确偏好 | I'd rather stay here than move. |
+| 强烈偏好 | There's no way I'm leaving. This is where I belong. |
+
+你试试：远程工作 vs 去办公室
+| 弱偏好 | ______ |
+| 明确偏好 | ______ |
+| 强烈偏好 | ______ |

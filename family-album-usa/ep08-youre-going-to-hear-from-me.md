@@ -39,3 +39,33 @@ Marilyn 去参加服装设计的工作面试。涉及准备面试、自我展示
 - **美国面试文化** — 强调自信表达、主动展示成果，不谦虚
 - **Portfolio** — 设计类工作必备，比简历更重要
 - **You're going to hear from me** — 双关：既是"你会联系我的"，也暗示"我不会放弃"
+
+## 口语输出练习
+
+### 练习 A：场景替换
+
+1. 面试官问 "Tell me about yourself"，你回答：
+   → "I'm a ______. I have experience in ______. I'm looking for ______."
+
+2. 面试结束，你表达自信：
+   → "You won't regret it. I'll ______."
+
+3. 你向朋友描述面试经历：
+   → "They asked me about ______. I told them I've ______."
+
+### 练习 B：模拟自我介绍 (60 秒)
+
+> 假设你在用英语面试一个远程 Go 工程师职位。
+> 用 60 秒做 self-introduction。覆盖：经验、技能、你在找什么样的机会。
+
+结构提示：
+1. Who I am (1 句)
+2. What I've done (2-3 句)
+3. What I'm looking for (1 句)
+
+### 练习 C：面试问答快速反应
+
+不看提示，直接口头回答：
+- What are your strengths? → ______
+- Why should we hire you? → ______
+- Where do you see yourself in 3 years? → ______
