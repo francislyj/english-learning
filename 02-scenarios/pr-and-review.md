@@ -55,3 +55,7 @@ type: scenario
 1. 60 秒：向同事口头解释你这个 PR 改了什么、为什么这么改。
 2. 45 秒：你不同意 reviewer 的一个建议，礼貌地说出你的不同看法 + 给理由。
 3. 30 秒：reviewer 说了一段你没听懂的话，请他放慢/重讲，并确认你的理解。
+
+---
+
+相关：[[method]] · 取材 [[ep05-the-right-thing\|ep05]] [[ep09-its-up-to-you\|ep09]]

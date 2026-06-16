@@ -57,3 +57,7 @@ type: scenario
 1. 60 秒：客户问你这个项目多少钱，你报价 + 说清包含什么、不包含什么。
 2. 45 秒：客户想压价 / 加需求不加钱，你礼貌地守住底线。
 3. 30 秒：客户当场要你答应一件你没把握的事，你不拒绝也不乱答应，先要时间。
+
+---
+
+相关：[[method]] · 取材 [[ep08-youre-going-to-hear-from-me\|ep08]] [[ep11-a-place-of-our-own\|ep11]] [[ep12-youre-fired\|ep12]]
